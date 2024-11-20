@@ -1,0 +1,2 @@
+2024-11-19 11:29:15,502 - Nanu - INFO - Password without hashing is: 12345678
+2024-11-19 11:29:15,502 - Nanu - CRITICAL - hashed password is: 12345678C<>5
